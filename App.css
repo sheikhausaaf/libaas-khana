@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f7f7f7;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #c71585;
+}
+
+ul {
+  list-style-type: square;
+}
